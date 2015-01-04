@@ -1,4 +1,9 @@
-XPyMata
+This is an experimental branch and should not be used
+=====================================================
+
+It is being used for test converting Python 2 files to Python 3
+
+PyMata
 ======
 
 Latest Version: 1.58 June 17, 2014
