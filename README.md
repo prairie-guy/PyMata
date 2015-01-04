@@ -1,4 +1,4 @@
-PyMata
+XPyMata
 ======
 
 Latest Version: 1.58 June 17, 2014
